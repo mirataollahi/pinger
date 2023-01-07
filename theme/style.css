@@ -1,0 +1,49 @@
+.b-success {
+    background-color: rgb(3, 159, 3);
+    color: white !important;
+}
+
+.b-normal {
+    background-color: rgb(4, 104, 227);
+    color: white !important;
+}
+
+.b-warning {
+    background-color: rgb(211, 213, 32);
+    color: black !important;
+}
+
+.b-danger {
+    background-color: #ce0303;
+    color: white !important;
+}
+
+.item_border {
+    border: 4px dashed silver !important;
+}
+
+.server_name {
+    font-size: 30px !important;
+}
+
+.item_server {
+    padding: 10px !important;
+    margin-bottom: 60px !important;
+}
+
+
+.light_success{
+    background-color: #eeffee !important;
+}
+
+.light_normal{
+    background-color: rgb(238, 245, 255) !important;
+}
+
+.light_warning{
+    background-color: rgb(255, 255, 228) !important;
+}
+
+.light_danger{
+    background-color: #fff1f1 !important;
+}
